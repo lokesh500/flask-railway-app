@@ -1,2 +1,2 @@
-# flask-railway-app
-Flask app for Railway deployment
+# My Railway App
+This is a simple Flask app for deployment.
