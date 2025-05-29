@@ -1,7 +1,7 @@
 from flask import Flask, request
 import requests
 
-app = Flask(name)
+app = Flask(flask-railway-app)
 
 # Lokesh Sir ka Telegram Bot Token
 BOT_TOKEN = '7753236397:AAFpv1zb-HK-feQzVSx4qGbEOG4Z6ek1pRA'
